@@ -7,7 +7,7 @@
 using namespace std;
 
 int main ()
-{	double x1, y1, x2, y2;
+{	int x1, y1, x2, y2;
 	
 	cout << "Please enter coordinate x1 for A : " ;
 	cin >> x1 ;
