@@ -15,10 +15,10 @@ int main ()
 	cout << "Please enter coordinate y1 for A : " ;
 	cin >> y1 ;
 	
-	cout << "Please enter coordinate x2 for A : " ;
+	cout << "Please enter coordinate x2 for B : " ;
 	cin >> x2 ;
 	
-	cout << "Please enter coordinate y2 for A : " ;
+	cout << "Please enter coordinate y2 for B : " ;
 	cin >> y2 ;
 	
 	return 0;
